@@ -27,7 +27,7 @@
 
 - 🔭 Currently building full-stack projects using **React JS**, **Next JS**, **MongoDB**, **Node.js** and **Nest.js**
 - 🌱 Currently learning: **AWS**, **Docker**, and **Modern Deployment Workflows**
-- 💼 Portfolio: [Visit My Website](http://anasshafihashmani.me)
+- 💼 Portfolio: [Visit My Website](http://anasshafihashmani.me){:target="_blank" rel="noopener noreferrer"}
 - 💬 Ask me about: **MERN Stack**, **Full Stack Development**, **Firebase**, **REST APIs**, **Next.js**, **Docker**, **AWS**
 - 📬 Contact me: **anashashmani2002@gmail.com**
 
