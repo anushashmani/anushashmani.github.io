@@ -1,5 +1,5 @@
 <!-- 
-  Hafiz Anas Hashmani | Ahmed Aslam | MERN Stack & Full Stack Developer | TwelveMonday | Boundless Technologies | Integral Technologists
+  Hafiz Anas Hashmani | anushashmani | MERN Stack & Full Stack Developer | TwelveMonday | Boundless Technologies | Integral Technologists
   Skills: React.js, Next.js, MongoDB, Node.js, TypeScript, Firebase, AWS, Docker, Deployment
   Location: Pakistan
 -->
@@ -10,7 +10,7 @@
 <h1 align="center"><strong>Hafiz Anas Hashmani | MERN Stack & Full Stack Developer</strong></h1>
 
 <p align="center">
-  <strong>Professional Developer known as <em>Ahmed Aslam</em> – Crafting scalable web applications with React, Next.js, MongoDB, and Node.js</strong>
+  <strong>Professional Developer known as <em>anushashmani</em> – Crafting scalable web applications with React, Next.js, MongoDB, and Node.js</strong>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hafiz-muhammad-anas-hashmani-71aa36388/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Hafiz Anas Hashmani" /></a>
-  <!-- <a href="https://www.instagram.com/ahmed_here_990/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram - Ahmed Aslam" /></a> -->
+  <!-- <a href="https://www.instagram.com/ahmed_here_990/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram - anushashmani" /></a> -->
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🛠️ Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,mongodb,ts,js,html,css,tailwind,bootstrap,mui,redux,firebase,git,github,vercel,netlify,docker,aws,postman,figma,vite,replit,supabase,mysql,drizzle,reactquery" alt="Tech Stack of Hafiz Anas Hashmani" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,mongodb,ts,js,html,css,tailwind,bootstrap,mui,redux,firebase,git,github,vercel,netlify,docker,aws,postman,figma,vite,replit,supabase,mysql,nest,db,db" alt="Tech Stack of Hafiz Anas Hashmani" />
 </p>
 
 ---
@@ -132,6 +132,6 @@
 
 <!-- 
   Hidden Keywords for SEO: 
-  Hafiz Anas Hashmani, Ahmed Aslam, Full Stack Developer, MERN Stack Developer, TwelveMonday, Boundless Technologies, Integral Technologists,
+  Hafiz Anas Hashmani, anushashmani, Full Stack Developer, MERN Stack Developer, TwelveMonday, Boundless Technologies, Integral Technologists,
   React Developer, Next.js Developer, MongoDB Expert, Node.js, Firebase, AWS, Docker, Deployment Engineer, JavaScript Developer Pakistan
 -->
